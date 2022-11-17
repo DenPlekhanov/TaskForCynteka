@@ -1,5 +1,5 @@
 # TaskForCynteka
-Test task for Cynteka company (from hh.ru)
+Test task for Cynteka company.
   
 Необходимо написать консольное приложение на Java(главный класс называть Main), в которое читает из файла input.txt входные данные:  
 n - число  
